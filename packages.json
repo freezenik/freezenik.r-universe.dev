@@ -1,0 +1,10 @@
+[
+    {
+        "package": "bamlss",
+        "url": "https://codeberg.org/nikum/bamlss"
+    },
+    {
+        "package": "JMbayes",
+        "url": "https://codeberg.org/zeileis/JMbayes"
+   }
+]
