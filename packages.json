@@ -1,10 +1,22 @@
 [
     {
+        "package": "R2BayesX",
+        "url": "https://codeberg.org/nikum/R2BayesX"
+    },
+    {
+        "package": "BayesXsrc",
+        "url": "https://codeberg.org/nikum/BayesXsrc"
+    },
+    {
+        "package": "BayesX",
+        "url": "https://codeberg.org/nikum/BayesX"
+    },
+    {
         "package": "bamlss",
         "url": "https://codeberg.org/nikum/bamlss"
     },
     {
         "package": "JMbamlss",
-        "url": "https://codeberg.org/zeileis/JMbamlss"
-   }
+        "url": "https://codeberg.org/nikum/JMbamlss"
+    }
 ]
